@@ -1,0 +1,5 @@
+hcp_retino/
+hcp_retino/
+*.nii
+*.npy
+*.tgz
